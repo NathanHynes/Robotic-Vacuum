@@ -1,0 +1,29 @@
+{
+  "name": "robotic-vacuum",
+  "version": "1.0.0",
+  "description": "tech test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanHynes/Robotic-Vacuum.git"
+  },
+  "author": "Nathan Hynes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanHynes/Robotic-Vacuum/issues"
+  },
+  "homepage": "https://github.com/NathanHynes/Robotic-Vacuum#readme",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jest": "^23.3.0",
+    "jest": "^24.9.0"
+  }
+}
